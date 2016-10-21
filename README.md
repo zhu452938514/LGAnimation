@@ -6,4 +6,4 @@
 3.增加直播点赞动画和弹幕效果(弹幕使用第三方框架实现)
 
 
-(https://github.com/a02683418/LGAnimation/blob/master/gif/code.gif)
+![lg](https://github.com/a02683418/LGAnimation/blob/master/gif/code.gif)
