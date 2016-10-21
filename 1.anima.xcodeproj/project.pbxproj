@@ -25,6 +25,7 @@
 		641DF5651DB9ECFA008550F6 /* BarrageWalkSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 641DF5551DB9ECFA008550F6 /* BarrageWalkSprite.m */; };
 		641DF5661DB9ECFA008550F6 /* BarrageWalkTextSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 641DF5571DB9ECFA008550F6 /* BarrageWalkTextSprite.m */; };
 		641DF5681DB9EE50008550F6 /* danmu.plist in Resources */ = {isa = PBXBuildFile; fileRef = 641DF5671DB9EE50008550F6 /* danmu.plist */; };
+		641DF56B1DB9F7CE008550F6 /* UIViewController+LG.m in Sources */ = {isa = PBXBuildFile; fileRef = 641DF56A1DB9F7CE008550F6 /* UIViewController+LG.m */; };
 		6469D6891DAF1F5100F02F06 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6469D6881DAF1F5100F02F06 /* main.m */; };
 		6469D68C1DAF1F5100F02F06 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6469D68B1DAF1F5100F02F06 /* AppDelegate.m */; };
 		6469D68F1DAF1F5100F02F06 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6469D68E1DAF1F5100F02F06 /* ViewController.m */; };
@@ -73,6 +74,8 @@
 		641DF5561DB9ECFA008550F6 /* BarrageWalkTextSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BarrageWalkTextSprite.h; sourceTree = "<group>"; };
 		641DF5571DB9ECFA008550F6 /* BarrageWalkTextSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BarrageWalkTextSprite.m; sourceTree = "<group>"; };
 		641DF5671DB9EE50008550F6 /* danmu.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = danmu.plist; sourceTree = "<group>"; };
+		641DF5691DB9F7CE008550F6 /* UIViewController+LG.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+LG.h"; sourceTree = "<group>"; };
+		641DF56A1DB9F7CE008550F6 /* UIViewController+LG.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+LG.m"; sourceTree = "<group>"; };
 		6469D6841DAF1F5100F02F06 /* 1.anima.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 1.anima.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6469D6881DAF1F5100F02F06 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6469D68A1DAF1F5100F02F06 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -115,6 +118,8 @@
 			children = (
 				641DF5311DB9E75C008550F6 /* UIView+LG.h */,
 				641DF5321DB9E75C008550F6 /* UIView+LG.m */,
+				641DF5691DB9F7CE008550F6 /* UIViewController+LG.h */,
+				641DF56A1DB9F7CE008550F6 /* UIViewController+LG.m */,
 			);
 			name = catagory;
 			sourceTree = "<group>";
@@ -313,6 +318,7 @@
 				6469D68F1DAF1F5100F02F06 /* ViewController.m in Sources */,
 				6469D68C1DAF1F5100F02F06 /* AppDelegate.m in Sources */,
 				641DF5591DB9ECFA008550F6 /* BarrageClock.m in Sources */,
+				641DF56B1DB9F7CE008550F6 /* UIViewController+LG.m in Sources */,
 				641DF55C1DB9ECFA008550F6 /* BarrageRenderer.m in Sources */,
 				641DF5611DB9ECFA008550F6 /* BarrageFloatTextSprite.m in Sources */,
 				6469D6891DAF1F5100F02F06 /* main.m in Sources */,
