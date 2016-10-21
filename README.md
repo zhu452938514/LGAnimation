@@ -7,3 +7,5 @@
 
 
 ![lg](https://github.com/a02683418/LGAnimation/blob/master/gif/code.gif)
+
+4.快速定位新项目BUG,将UIViewController+LG的.h.m文件拖入项目中.运行.用runtime快速定位控制器
