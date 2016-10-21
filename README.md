@@ -3,4 +3,5 @@
 1.一个简单的波纹动画,后续还会更新更多酷炫的动画(waveView)
 
 2.boss直聘的转场动画
-http://github.com/a602883418/LGAnimation/gif/code.git
+3.增加直播点赞动画和弹幕效果(弹幕使用第三方框架实现)
+http://github.com/a602883418/LGAnimation/gif/code.gif
